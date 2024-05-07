@@ -29,9 +29,9 @@ Here’s how the project directory is structured:
 
 ## Setting Up the Application
 
-### API
-
 ### Web Frontend
+
+### API
 
 ### Database
 
